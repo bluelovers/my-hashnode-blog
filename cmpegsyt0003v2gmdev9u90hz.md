@@ -1,5 +1,5 @@
 ---
-title: "Obsidian MCP"
+title: "Obsidian MCP 三種工具實戰比較"
 datePublished: 2026-05-20T19:38:40.312Z
 cuid: cmpegsyt0003v2gmdev9u90hz
 slug: obsidian-mcp
